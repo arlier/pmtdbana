@@ -1,0 +1,11 @@
+import draw
+#draw.drawrefpmt("EA0339")
+#draw.drawrefpmt("EA0574")
+#draw.drawrefpmt("EA1437")
+#draw.drawrefpmt("EA0586")
+#draw.drawrefpmt("PA1704-108")
+#draw.drawrefpmt("PA1705-12")
+#draw.drawrefpmt("PA1705-117")
+#draw.drawrefpmt("EA0419")
+#draw.drawrefpmt("EA1578")
+draw.drawrefpmt("PA1704-731")
