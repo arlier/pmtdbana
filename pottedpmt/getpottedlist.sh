@@ -6,3 +6,4 @@
 #########################################################################
 #!/bin/bash
 #unique list
+cat pmtdb.txt|grep Pot | awk '{ print $2  }'|sort|uniq>pottedsnlist.txt
