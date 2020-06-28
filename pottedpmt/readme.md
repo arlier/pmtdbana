@@ -1,0 +1,5 @@
+the strategy to analyze potted PMTs
+
+1. get the (unique)list of potted PMTs.
+2. found the potted test result(skip if not pass)
+3. found the bare test result  (passed by default)
